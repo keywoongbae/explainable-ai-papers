@@ -7,8 +7,8 @@
 본 내용과 관련해서 질문이나 feedback은 [Issue](https://github.com/keywoongbae/all-about-risk-management/issues) 탭을 이용해주세요.
 
 <hr>
-### Paper reviews
 
+### Paper reviews
 
 - **A Unified Approach to Interpreting Model Predictions (NIPS 2017)**
 
